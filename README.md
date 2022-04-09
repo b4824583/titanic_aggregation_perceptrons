@@ -7,6 +7,6 @@ test in kaggle
 ## mplement by logistic regression
  without tensorflow ,pytorch ,kera
  loss:cross entropy error
-## reference from 林軒田的機器學習基石
+## reference from 台大林軒田教授的機器學習基石課程
   https://youtu.be/IZttt_v5tSw
 
