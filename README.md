@@ -1,6 +1,7 @@
 # Titanic
 pratice_machine_learning
-
+#Technique
+aggregation perceptron
 ## 75% accuracy
 test in kaggle
 ## mplement by logistic regression
